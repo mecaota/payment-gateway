@@ -33,7 +33,7 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "husky": "^7.0.4",
     "jest": "^27.4.3",
-    "lint-staged": "^12.1.2",
+    "lint-staged": "^13.0.0",
     "prettier": "2.8.1",
     "storybook-builder-vite": "^0.1.10",
     "ts-jest": "^27.0.7",
